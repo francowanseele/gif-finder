@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <GifItem /> Should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Homero Simpson"
+      src="https://thesimpsons/homero-simpson.jpg"
+    />
+    <p>
+      Homero Simpson
+    </p>
+  </div>
+</div>
+`;
